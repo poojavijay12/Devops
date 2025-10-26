@@ -3,7 +3,3 @@ print("hello world,hii" )
 print("hello world" )
 
 print("hi 2nd folder")
-print("hi")
-print("hello")
-print("hiiiii")
-print("hi 2nd folder")
